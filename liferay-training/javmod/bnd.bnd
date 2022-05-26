@@ -1,0 +1,4 @@
+Bundle-Name: javmod
+Bundle-SymbolicName: javmod
+Bundle-Version: 1.0.0
+Export-Package: javmod.constants

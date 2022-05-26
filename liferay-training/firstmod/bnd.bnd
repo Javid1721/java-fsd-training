@@ -1,0 +1,4 @@
+Bundle-Name: firstmod
+Bundle-SymbolicName: firstmod
+Bundle-Version: 1.0.0
+Export-Package: firstmod.constants

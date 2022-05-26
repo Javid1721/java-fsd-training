@@ -1,0 +1,4 @@
+Bundle-Name: resourceurl
+Bundle-SymbolicName: resourceurl
+Bundle-Version: 1.0.0
+Export-Package: resourceurl.constants
