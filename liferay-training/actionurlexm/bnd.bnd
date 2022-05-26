@@ -1,0 +1,4 @@
+Bundle-Name: actionurlexm
+Bundle-SymbolicName: actionurlexm
+Bundle-Version: 1.0.0
+Export-Package: actionurlexm.constants
